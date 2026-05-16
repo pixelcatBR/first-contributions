@@ -1,6 +1,29 @@
 # este é um fork do first-contributions que foi meu primeiro PR
-fiz ele com o exato conteúdo do PR, que adiciona o idioma luxemburguês, fui rejeitado mas manti o código então fiquem com o código.
+fiz ele com o exato conteúdo do PR, que adiciona o idioma luxemburguês, fui rejeitado mas manti o código e a mensagem, então fiquem com o código e a mensagem.
 
+## mensagem que eu mandei no PR
+Eu disse: 
+```
+Hello, I'm Brazilian and I'm adding support for Luxembourg.
+
+I noticed there wasn't much support for this country, so I added it.
+```
+tempo depois ele viu e disse isso:
+```
+Boa tarde @pixelcatBR, thank you for your work on this.
+
+Unfortunately, I can't accept it because of the following reasons
+
+    We prefer translations to be added and maintained by native speakers.
+    Translations are not about supporting countries. It's to help people who are not comfortable with English to still understand the documentation here. Most Luxembourgers understand French, English or German
+```
+e depois eu agradeci com:
+```
+Thank you for the feedback! I completely understand the need for a native speaker for translations.
+I will try to help in other ways and
+Thank you for the opportunity to learn from this process!
+```
+# agora fiquem com o código
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
