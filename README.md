@@ -1,5 +1,5 @@
 # este é um fork do first-contributions que foi meu primeiro PR
-fiz ele com o exato conteúdo do pr,que adiciona o idioma luxemburguês, fui rejeitado mas manti o código então fiquem com o código.
+fiz ele com o exato conteúdo do PR, que adiciona o idioma luxemburguês, fui rejeitado mas manti o código então fiquem com o código.
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
